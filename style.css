@@ -97,7 +97,7 @@ header{
     img{
         width: 400px;
         position: absolute;
-        top: -75px;
+        bottom: 0px;
         left: 250px;
     }
     .main{
